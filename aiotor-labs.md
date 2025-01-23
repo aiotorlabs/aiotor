@@ -1,5 +1,19 @@
 # Aiotor Labs Pvt Ltd is technology innovation company
 
+**With very good products in AI, Computer Vision, NVR (Network Video Recorder Solutions), IIoT, Private Cloud Box we are building strong trust with our respected clients.**
+
+## At Aiotor Labs majority we are focusing on following areas:-
+
+1. AI & Computer Vision Solutions
+2. Industry 4.0 
+3. Realtime streaming and media server with computer vision
+4. NVR - Network Video Recorder System 
+5. On-prem cloud with hardware and software
+6. Industrial ERP
+7. Any type of custome software development for any industry , any Product Manufacturing, Waterhouse Management, Logistics  
+8. OCR System - Optical Character Recognition
+9. Robotics
+    
 ## AI and Computer Vision Solutions
 
 Cutting-edge artificial intelligence and computer vision solutions for industries, including autonomous mobile robots and automated guided vehicles (AGVs) for efficient automation.
@@ -31,3 +45,5 @@ A fully integrated ERP system tailored for industries to manage production, logi
 
 ## Aiotor Robotics Arm
 State-of-the-art robotics solutions for industrial automation, enabling efficiency, precision, and cost-effectiveness in manufacturing tasks.
+
+For more details you can reachout to us - [Aiotor Labs Website](https://aiotor.com)

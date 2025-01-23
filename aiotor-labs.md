@@ -1,6 +1,6 @@
 # Aiotor Labs Pvt Ltd is technology innovation company
 
-**With very good products in AI, Computer Vision, NVR (Network Video Recorder Solutions), IIoT, Private Cloud Box we are building strong trust with our respected clients.**
+**With very good products in AI (Artificial Intelligence), Computer Vision, NVR (Network Video Recorder Solutions), IoT, IIoT, Private CloudBox we are building strong trust with our respected clients across the globe.**
 
 ## At Aiotor Labs majority we are focusing on following areas:-
 
